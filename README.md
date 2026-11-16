@@ -1,17 +1,17 @@
-Leon Template
+# Leon Template
 
-Project Description
+## Project Description
 
 Leon is a simple website template created using HTML and CSS.
 
-Technologies Used
+## Technologies Used
 
 - HTML5
 - CSS3
 - Font Awesome
 - Google Fonts
 
-##Website Sections
+## Website Sections
 
 1. Header: Contains the logo and navigation menu.
 2. Landing: Contains the main heading and background image.
@@ -21,13 +21,13 @@ Technologies Used
 6. About: Provides information about the website.
 7. Contact: Contains contact information and social media icons.
 
-##Project Structure
+## Project Structure
 
 - "index.html": Main HTML page.
 - "css/main.css": Website styling.
 - "css/all.min.css": Font Awesome styles.
 - "images/": Website images.
 - "webfonts/": Font Awesome font files.
-##Project Goal
+## Project Goal
 
 The goal of this project is to practice HTML and CSS and learn how to build and style a website.
